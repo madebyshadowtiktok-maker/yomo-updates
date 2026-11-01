@@ -1,14 +1,14 @@
 {
  "v": 1,
- "version": "1.3.4",
+ "version": "1.3.5",
  "notes": [
-  "Fix: reading your own .aep failed with 'cols.indexOf is undefined'. Templates now load."
+  "Templates now use only the text layer of your .aep, like the older version."
  ],
- "date": 1793560823433,
- "file": "Yomo-Update-1.3.4.yupd",
- "size": 1191828,
- "sha256": "d34e41f39fb7664de031f690777e915797df833e0a4bed7ced7b566afe45344f",
- "ext": "d3962c83aa437e8b702e9ea4b2e54d2415d8326e5a537ceb70f0cb310a049b4b",
- "app": "aae5f2bcadcb4d07337dbbd409e068dfacd17447e0e047a52ddd6f8800d28fff",
- "sig": "GQJuaS8lbgNVquuq8Vq15xMM7mZtX3cQgpfSakp8tBNspqaOPX73tB6vghrBITTqGHli5qekwwqkxjOPlRrhAQ"
+ "date": 1793561514249,
+ "file": "Yomo-Update-1.3.5.yupd",
+ "size": 1190682,
+ "sha256": "293aa328ebdc32281dc6ca7077c2b0db5fd66baef9be6a66e9c8a07ebacbc788",
+ "ext": "07956831a452fca12fe56797379c1ff856a39ff9ae5b159f66479fb5a20d71f7",
+ "app": "1e875c2754a3fff9d5e9faf2eb3138ea56f29f1ec5aec907e2829dc58bfd272b",
+ "sig": "7+IcvlbhDeeyfrWlbCyAulYsd/T+WVRxVEoqwPdT0ZqjxszGAAaUt1gCUMgS8tblHYZ5w+W0nwewKbaDC/BcDg"
 }
