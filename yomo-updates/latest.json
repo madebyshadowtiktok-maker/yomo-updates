@@ -1,0 +1,14 @@
+{
+ "v": 1,
+ "version": "1.3.2",
+ "notes": [
+  "Fix: generating captions with your own .aep no longer says 'Pick a template first'. If the project is saved in your library but not in the open After Effects pr"
+ ],
+ "date": 1793557334327,
+ "file": "Yomo-Update-1.3.2.yupd",
+ "size": 1191036,
+ "sha256": "19102f9faa70fabb9ff8d66b03b70a0a8e4b7bb5be7590c0f569bdc2610efe09",
+ "ext": "fd0dc83927f6199f94f2b6b12b20031b040fa8dc7c29752a844684e51aceb125",
+ "app": "85633500a6eab548d46df4375bcabfec11edaed7e85a4d71506e7652436851cd",
+ "sig": "v7iTp+qMra4rRh0h75w6quklSlaj8vQhj6IeJ1pCLKKJ2e7InZq//9R3kHjWEsuISG59wC4OgYDt70LldI5KDg"
+}
