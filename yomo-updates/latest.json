@@ -1,14 +1,14 @@
 {
  "v": 1,
- "version": "1.4.1",
+ "version": "1.4.2",
  "notes": [
-  "New: settings gear (top right) in the apps - any accent colour and any video or picture as the background."
+  "Captions: ALL CAPS by default, always fit inside the frame, font picker right in Layout."
  ],
- "date": 1793636795429,
- "file": "Yomo-Update-1.4.1.yupd",
- "size": 1224337,
- "sha256": "ff62ed71e3a00bc53c2f96aceddda5fe5af652ac5044a11160ac028359668863",
- "ext": "af931aeb3a73fe6bb74053f36e265f02f19d59967cec291a9e731c93f98f69b2",
- "app": "dcb9aeaa41e96810ab2a42ca98cbe960ebd095e849092ea474304222d2736fd8",
- "sig": "5ld55UWbKf+MXMylwaB7ud/BLY8Yt/7vgDDhsBISisS2F8m9XWUoLPmmwzTWHoviDiWV9EGn6H+VTq/GgbreBg"
+ "date": 1793638231803,
+ "file": "Yomo-Update-1.4.2.yupd",
+ "size": 1223564,
+ "sha256": "00923d5465be473f256843bcc35caeb71411e1fa745218419a5f9c795072519a",
+ "ext": "311714844de12cf5a392395a983d23646053e3059a983804d2a42ed29366f859",
+ "app": "eb57db9b579c0ed4b326fb9ae73ad9bd24f1433a8f71031c58ad30dbf5529b67",
+ "sig": "KGg9tR8zpKSG6rhZZQZef/aNNI69+Y6p21Fa+DE0kDFLGK2R9XzPYusRZNGvrSTs8KH/Dlr7b30yXEF2q+gzAQ"
 }
