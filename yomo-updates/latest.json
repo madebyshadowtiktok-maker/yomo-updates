@@ -1,14 +1,14 @@
 {
  "v": 1,
- "version": "1.4.0",
+ "version": "1.4.1",
  "notes": [
-  "New: up to 3 template projects, every text layer is a card. Font + size. Fix captions. No overlap. Full square graph. New look."
+  "New: settings gear (top right) in the apps - any accent colour and any video or picture as the background."
  ],
- "date": 1793636055511,
- "file": "Yomo-Update-1.4.0.yupd",
- "size": 1210681,
- "sha256": "19107bedae6746defac09b03f2a746416160ae1f939cb131d4a96e4131694d8e",
- "ext": "925f75be47fb6e81959f3cff0cf7ed6a3b8b896538bb0082c22099fa9d2ac89f",
- "app": "baf9cc080cc86b52be518edca1f8fe44d7a2d3175ec7f60476edad8db3b52c39",
- "sig": "qOpD7Xzy/bfh074QaY8BbSdNsrfeJEftL79OkneHaxqVtvadcE64OSbL3p/+GndkJGDXpg0FyGi/6bRJPo7dDA"
+ "date": 1793636795429,
+ "file": "Yomo-Update-1.4.1.yupd",
+ "size": 1224337,
+ "sha256": "ff62ed71e3a00bc53c2f96aceddda5fe5af652ac5044a11160ac028359668863",
+ "ext": "af931aeb3a73fe6bb74053f36e265f02f19d59967cec291a9e731c93f98f69b2",
+ "app": "dcb9aeaa41e96810ab2a42ca98cbe960ebd095e849092ea474304222d2736fd8",
+ "sig": "5ld55UWbKf+MXMylwaB7ud/BLY8Yt/7vgDDhsBISisS2F8m9XWUoLPmmwzTWHoviDiWV9EGn6H+VTq/GgbreBg"
 }
