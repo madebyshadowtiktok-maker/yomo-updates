@@ -1,14 +1,14 @@
 {
  "v": 1,
- "version": "1.4.3",
+ "version": "1.4.4",
  "notes": [
-  "Captions: one layer per caption + Word pop, Letter cascade, Bounce, Pop, Slide up, Fade, Typewriter animations."
+  "Captions: Arial Bold default, one line per layer, layers can overlap, each word fades in exactly when it is spoken."
  ],
- "date": 1793640651101,
- "file": "Yomo-Update-1.4.3.yupd",
- "size": 1227626,
- "sha256": "705eb36fe19db0977fde592253683d0c70cb93823bb18ce62be9cfc6c6d14f84",
- "ext": "e44c7f5075e0592970500f327d6a4ac15577add985541a8c66f70decb226d4a2",
- "app": "ec8e34e47749b0b70aaf4f33e9fc6d58f3cb34f63a637c9c1f8eb8fd90fe6c9b",
- "sig": "sSV+Oke4LL5OQGI2quJ3NVc2094F1t5Zs2PN0LJs3fhavKvByC/rsIWEWmwwarBo8oj4XzfLMmi9O2DDECGyAQ"
+ "date": 1793642214200,
+ "file": "Yomo-Update-1.4.4.yupd",
+ "size": 1226662,
+ "sha256": "5baeb776e898ef7958b770b403dd2c88ca1090744d557065c700281be58d56ad",
+ "ext": "cadf9a90a620b1c788992d43ea1b1a9eb18c6f280ab9a8d8061c25ae82ca20d6",
+ "app": "9828018e7af8edbcd96180859b98d7a1f17716a0c74fe21865ee56782cd82630",
+ "sig": "ajP15myot1ugbhBHEVG4X5qMHK/eufJV1aLvBoaUKObxe/jGY12flc2RKHy50ubUxCIxsLD6pIDjnRHUqQHmBw"
 }
