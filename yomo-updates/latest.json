@@ -1,14 +1,14 @@
 {
  "v": 1,
- "version": "1.3.6",
+ "version": "1.3.7",
  "notes": [
-  "Test update - nothing changes, it only checks that updates work."
+  "Captions from your .aep are back to how 1.2.0 made them: one line per caption."
  ],
- "date": 1793564938456,
- "file": "Yomo-Update-1.3.6.yupd",
- "size": 1191974,
- "sha256": "ca69ceb61dc7c3a46595baf237ebb6afca59c8e05d10c3fa63528d418974ce57",
- "ext": "68d7bd820842d51e90877bf6536779210ecf309495406a515ca795cdda5a5b32",
- "app": "cf53809761ab6eb91ea5826b8935e30050cdc8587da6d24857f9a5644d3ba2d5",
- "sig": "R5lxcsuC5BUoDrTXMtgvsbY9X1TDbDduSnoMMrGeIb5sM49E0pOII+5J0NrpNhzXJzwO2RlSzH1nr2c1zOIxCQ"
+ "date": 1793622840538,
+ "file": "Yomo-Update-1.3.7.yupd",
+ "size": 1191288,
+ "sha256": "e17978151bfae727e2c7d60f60c8b1e53beafb5e4b8cac36cdd32a8d56339513",
+ "ext": "0fc696ec9addf69a887d68145b05a5d59c2249521ae78dd3f1352d70f65c680d",
+ "app": "48e66fc06e3fd9ba6236d6fc048baf29d750393721db435d81ec96ab2c87f42e",
+ "sig": "Ov0ZcCqF0zq9jdkzclnDA1/te2EaJU15NJPpyrWE3hAvuAWKxy+If0Z+7tcMs9sB7MSxb1HEMfZkOzW9J2lmCA"
 }
