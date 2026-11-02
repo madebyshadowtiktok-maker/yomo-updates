@@ -1,14 +1,14 @@
 {
  "v": 1,
- "version": "1.4.2",
+ "version": "1.4.3",
  "notes": [
-  "Captions: ALL CAPS by default, always fit inside the frame, font picker right in Layout."
+  "Captions: one layer per caption + Word pop, Letter cascade, Bounce, Pop, Slide up, Fade, Typewriter animations."
  ],
- "date": 1793638231803,
- "file": "Yomo-Update-1.4.2.yupd",
- "size": 1223564,
- "sha256": "00923d5465be473f256843bcc35caeb71411e1fa745218419a5f9c795072519a",
- "ext": "311714844de12cf5a392395a983d23646053e3059a983804d2a42ed29366f859",
- "app": "eb57db9b579c0ed4b326fb9ae73ad9bd24f1433a8f71031c58ad30dbf5529b67",
- "sig": "KGg9tR8zpKSG6rhZZQZef/aNNI69+Y6p21Fa+DE0kDFLGK2R9XzPYusRZNGvrSTs8KH/Dlr7b30yXEF2q+gzAQ"
+ "date": 1793640651101,
+ "file": "Yomo-Update-1.4.3.yupd",
+ "size": 1227626,
+ "sha256": "705eb36fe19db0977fde592253683d0c70cb93823bb18ce62be9cfc6c6d14f84",
+ "ext": "e44c7f5075e0592970500f327d6a4ac15577add985541a8c66f70decb226d4a2",
+ "app": "ec8e34e47749b0b70aaf4f33e9fc6d58f3cb34f63a637c9c1f8eb8fd90fe6c9b",
+ "sig": "sSV+Oke4LL5OQGI2quJ3NVc2094F1t5Zs2PN0LJs3fhavKvByC/rsIWEWmwwarBo8oj4XzfLMmi9O2DDECGyAQ"
 }
