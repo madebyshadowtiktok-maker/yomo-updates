@@ -1,14 +1,14 @@
 {
  "v": 1,
- "version": "1.4.9",
+ "version": "1.5.0",
  "notes": [
-  "Test update - nothing new, it only checks that installing updates works."
+  "New: icon bar on the left, Beats, Face track and Auto presets tabs. Captions: 2 lines in 1 layer, better word timing. Pre-comp like AE."
  ],
- "date": 1793826911322,
- "file": "Yomo-Update-1.4.9.yupd",
- "size": 1239827,
- "sha256": "5e23a1428d81eea68678b708d4e391f24d9e1d943e927057f42a737cadb30f7a",
- "ext": "ee8cb2957634c0bfcd37b60c8ceadb163fd7854bd5e62d88bc92fd4997fbdbd6",
- "app": "2408694116530c0aff26302c9ab74cc038cfa3272440cdfad8927de104065cba",
- "sig": "HCwdgl248fB3QSweWKL0ZzmivopKlpS0TQv0BtadIAT0ukUZbdUdRFjBXTHzok73En7F6pGUtEMVvv1/q2aQBg"
+ "date": 1793833204712,
+ "file": "Yomo-Update-1.5.0.yupd",
+ "size": 2340459,
+ "sha256": "1a96f72a2c0162b658bf05c9d2482412f35210276a9783cb695b9fdc496b2fa9",
+ "ext": "7ed5b0a918eabf87d2057384c5a16b168ac348b93265ff4b09212cfd3edd6033",
+ "app": "5eb44b6720ed4b5c44fdc0943bf69ec6ad83f80a17ef963f0130861589fc2e45",
+ "sig": "OufDPhDOJ+REoyvHQJCzMy+9MNvnq+Nx2ty2Jh5OzlcaycIp41uXuvWqkfPqeCfmbQC+pCIpc1fBG3DZtCQ/Aw"
 }
