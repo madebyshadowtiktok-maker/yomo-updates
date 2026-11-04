@@ -1,14 +1,14 @@
 {
  "v": 1,
- "version": "1.4.6",
+ "version": "1.4.7",
  "notes": [
-  "Captions now snap to your real voice: each word starts and ends exactly when it is spoken."
+  "Film-style captions: phrases of 2 lines, words appear as spoken, start before the voice. Speed graph diamonds stay fixed."
  ],
- "date": 1793803749321,
- "file": "Yomo-Update-1.4.6.yupd",
- "size": 1236374,
- "sha256": "a7591610988ff241ac9c903ab0fca6e017af0639306fe95c798ebca1ec2cd62f",
- "ext": "5ec690539d5a3de402826aa5dc8dfdf1f73144868e4a152d89e1e62c79c8bd0d",
- "app": "a8bb6885b8a10b644088d27e3be986eccb3d58fb77ff721b9fe1180ebd170ea0",
- "sig": "3I7+REA3+JjePb7y8cz/B44yog6hI+ymOybxQtk4YpyIQmjXnc5jpzHbfFJRaVROpnXy6T3xQTHbZWue50YVAQ"
+ "date": 1793804850716,
+ "file": "Yomo-Update-1.4.7.yupd",
+ "size": 1237429,
+ "sha256": "e2260e67510af3099e9b0520f9d0ef93dc321442560fd5b153f1bd71c4f49d36",
+ "ext": "a999db6cd99adf0f22f0eedcda4422e15cccb4ed851f099581da4a2e561e336d",
+ "app": "37dff2c7795e5e06bd6b8cd28980aaf29ceb80bf613cfb5a5ae743acdc4e6a33",
+ "sig": "UI9stUtiEG8/Ye1vEa8pic23vEYNQmokxl12sNcDfsVBp4eQN3iffFUf6y41xMZ923OsuuQq9HUYmOWywuuGBQ"
 }
