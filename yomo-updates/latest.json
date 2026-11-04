@@ -1,14 +1,14 @@
 {
  "v": 1,
- "version": "1.4.7",
+ "version": "1.4.8",
  "notes": [
-  "Film-style captions: phrases of 2 lines, words appear as spoken, start before the voice. Speed graph diamonds stay fixed."
+  "Captions: no Words or Sync slider - phrases and timing are automatic. Templates follow the voice word by word, overlap and fade like a film edit."
  ],
- "date": 1793804850716,
- "file": "Yomo-Update-1.4.7.yupd",
- "size": 1237429,
- "sha256": "e2260e67510af3099e9b0520f9d0ef93dc321442560fd5b153f1bd71c4f49d36",
- "ext": "a999db6cd99adf0f22f0eedcda4422e15cccb4ed851f099581da4a2e561e336d",
- "app": "37dff2c7795e5e06bd6b8cd28980aaf29ceb80bf613cfb5a5ae743acdc4e6a33",
- "sig": "UI9stUtiEG8/Ye1vEa8pic23vEYNQmokxl12sNcDfsVBp4eQN3iffFUf6y41xMZ923OsuuQq9HUYmOWywuuGBQ"
+ "date": 1793807421250,
+ "file": "Yomo-Update-1.4.8.yupd",
+ "size": 1239042,
+ "sha256": "fd94f10b5ff4b34a386fb023a84a0ce0a6a5e146942315a9bf5349ab5f1bfe8b",
+ "ext": "cc74107758fbccabf82566be2bf33b333f3c29a9cee666770c121055ab436039",
+ "app": "9c8a8caa51bcdd176e5a814995de43e80160acadc6719272c7203c21fae603e1",
+ "sig": "fdheF3/Rba6QNrq2hSyQyAv9JkIjzzwJSL9Pjk0+7/nMNXlu8N1tGIOpr7pkUplaP5LaftA/toXsWHc51euLBw"
 }
