@@ -1,14 +1,14 @@
 {
  "v": 1,
- "version": "1.4.8",
+ "version": "1.4.9",
  "notes": [
-  "Captions: no Words or Sync slider - phrases and timing are automatic. Templates follow the voice word by word, overlap and fade like a film edit."
+  "Test update - nothing new, it only checks that installing updates works."
  ],
- "date": 1793807421250,
- "file": "Yomo-Update-1.4.8.yupd",
- "size": 1239042,
- "sha256": "fd94f10b5ff4b34a386fb023a84a0ce0a6a5e146942315a9bf5349ab5f1bfe8b",
- "ext": "cc74107758fbccabf82566be2bf33b333f3c29a9cee666770c121055ab436039",
- "app": "9c8a8caa51bcdd176e5a814995de43e80160acadc6719272c7203c21fae603e1",
- "sig": "fdheF3/Rba6QNrq2hSyQyAv9JkIjzzwJSL9Pjk0+7/nMNXlu8N1tGIOpr7pkUplaP5LaftA/toXsWHc51euLBw"
+ "date": 1793826911322,
+ "file": "Yomo-Update-1.4.9.yupd",
+ "size": 1239827,
+ "sha256": "5e23a1428d81eea68678b708d4e391f24d9e1d943e927057f42a737cadb30f7a",
+ "ext": "ee8cb2957634c0bfcd37b60c8ceadb163fd7854bd5e62d88bc92fd4997fbdbd6",
+ "app": "2408694116530c0aff26302c9ab74cc038cfa3272440cdfad8927de104065cba",
+ "sig": "HCwdgl248fB3QSweWKL0ZzmivopKlpS0TQv0BtadIAT0ukUZbdUdRFjBXTHzok73En7F6pGUtEMVvv1/q2aQBg"
 }
