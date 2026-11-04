@@ -1,14 +1,14 @@
 {
  "v": 1,
- "version": "1.4.4",
+ "version": "1.4.5",
  "notes": [
-  "Captions: Arial Bold default, one line per layer, layers can overlap, each word fades in exactly when it is spoken."
+  "New design: red and black liquid glass look in the panel and both apps."
  ],
- "date": 1793642214200,
- "file": "Yomo-Update-1.4.4.yupd",
- "size": 1226662,
- "sha256": "5baeb776e898ef7958b770b403dd2c88ca1090744d557065c700281be58d56ad",
- "ext": "cadf9a90a620b1c788992d43ea1b1a9eb18c6f280ab9a8d8061c25ae82ca20d6",
- "app": "9828018e7af8edbcd96180859b98d7a1f17716a0c74fe21865ee56782cd82630",
- "sig": "ajP15myot1ugbhBHEVG4X5qMHK/eufJV1aLvBoaUKObxe/jGY12flc2RKHy50ubUxCIxsLD6pIDjnRHUqQHmBw"
+ "date": 1793800059984,
+ "file": "Yomo-Update-1.4.5.yupd",
+ "size": 1233457,
+ "sha256": "7a5f7dd7bdb1291d98af27b476e45daa0022c1b79042d0157625b2515790765b",
+ "ext": "929c9c970c344a8a10b1c309eaf363e0dd2521fce5f51ad076e6c5a1c2e0709b",
+ "app": "1974910c6f1c2b2f2a5be901f0f044645932e285fa5d1958db5733b853f37268",
+ "sig": "iHgoeUDz7nnHCDVKRtshGXts1TuVtSe1KPYnIhPbmPisLjNi7PVPyVJnEto9wCBfxvMRCpzp7TrRqsJjoib3Cg"
 }
