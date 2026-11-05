@@ -1,14 +1,14 @@
 {
  "v": 1,
- "version": "1.7.0",
+ "version": "1.7.1",
  "notes": [
-  "Buy on Payhip, paste the licence key, done: the Yomo Tools app now unlocks with Payhip keys through the licence server."
+  "Small fixes. Restart After Effects after updating so the panel shows the new version."
  ],
- "date": 1793905580766,
- "file": "Yomo-Update-1.7.0.yupd",
- "size": 2362247,
- "sha256": "aa55c8f9e3a6632e46ba8fcb15848756f4051d37ccdb29446b8aef6cc642222b",
- "ext": "8ce5f6ab9aa8a4d014cd6d8f1bac776172d44dd8ef94f113acf78905229b2323",
- "app": "42a016e741a6711089abcb76d4c840f47a26ffeae7d894935f068cfcb0dbada9",
- "sig": "MthIRVnXhW2ib/DL1TKU11kphY/pCv30wYPm+vMdhK5qh4IVeaFBxBpOrEtnBIb11uKjqJuZSy7/FExzpTTJBg"
+ "date": 1793909717767,
+ "file": "Yomo-Update-1.7.1.yupd",
+ "size": 2362886,
+ "sha256": "801153f7b84cf3a51d55a344c480fcc4f11d4a780153e15f752eb01edd9618e1",
+ "ext": "461871f165a7a0b1f7b3b2b640ff3726cfe67bef10af2b95887c4bfcac759985",
+ "app": "86a75156157b4c5573329c4b3bd08313b4b3416c0d8f4c64e6278125ee74870a",
+ "sig": "tAjCcun81ZFtz0dwBqqif0/DAm6Oyd9S26mSTFMMYLKjuasxHHy06xfcJUYssbZgh2nBgcpnFr4ZNgTc4V4gBg"
 }
