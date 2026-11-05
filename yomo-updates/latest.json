@@ -1,14 +1,14 @@
 {
  "v": 1,
- "version": "1.5.0",
+ "version": "1.7.0",
  "notes": [
-  "New: icon bar on the left, Beats, Face track and Auto presets tabs. Captions: 2 lines in 1 layer, better word timing. Pre-comp like AE."
+  "Buy on Payhip, paste the licence key, done: the Yomo Tools app now unlocks with Payhip keys through the licence server."
  ],
- "date": 1793833204712,
- "file": "Yomo-Update-1.5.0.yupd",
- "size": 2340459,
- "sha256": "1a96f72a2c0162b658bf05c9d2482412f35210276a9783cb695b9fdc496b2fa9",
- "ext": "7ed5b0a918eabf87d2057384c5a16b168ac348b93265ff4b09212cfd3edd6033",
- "app": "5eb44b6720ed4b5c44fdc0943bf69ec6ad83f80a17ef963f0130861589fc2e45",
- "sig": "OufDPhDOJ+REoyvHQJCzMy+9MNvnq+Nx2ty2Jh5OzlcaycIp41uXuvWqkfPqeCfmbQC+pCIpc1fBG3DZtCQ/Aw"
+ "date": 1793905580766,
+ "file": "Yomo-Update-1.7.0.yupd",
+ "size": 2362247,
+ "sha256": "aa55c8f9e3a6632e46ba8fcb15848756f4051d37ccdb29446b8aef6cc642222b",
+ "ext": "8ce5f6ab9aa8a4d014cd6d8f1bac776172d44dd8ef94f113acf78905229b2323",
+ "app": "42a016e741a6711089abcb76d4c840f47a26ffeae7d894935f068cfcb0dbada9",
+ "sig": "MthIRVnXhW2ib/DL1TKU11kphY/pCv30wYPm+vMdhK5qh4IVeaFBxBpOrEtnBIb11uKjqJuZSy7/FExzpTTJBg"
 }
