@@ -1,18 +1,15 @@
 {
  "v": 1,
- "version": "1.7.4",
+ "version": "1.7.5",
  "notes": [
-  "Face track works like After Effects' Tracker: Tracker > Track Point 1 with Feature Center, Confidence and Attach Point",
-  "Speed graph fixed (handles can't cross, like AE)",
-  "Template captions: parented / controller templates now land in the right place",
-  "Prime: the null is not connected to anything",
-  "Beat markers removed"
+  "Captions in sync: each word starts when it is really said (no more captions starting at 0:00 over music), and captions end with the clip",
+  "Face: Apply works right after adding layers, and can make a new null that follows the face"
  ],
- "date": 1794913717701,
- "file": "Yomo-Update-1.7.4.yupd",
- "size": 2353574,
- "sha256": "658f77947c34f7917d5f2574ae79327676c97756632560c829ed46664ebb8f18",
- "ext": "ff42a0ca5256b12e6be736508fce131635a5f858b3641c9d1e21217ad8190942",
- "app": "f4b9c9193d67596e320d45b0c111c2466d34ec8cc13d219c6c08beee6df416ff",
- "sig": "sdrwjp9TR5MIXIm8IfcBRNX/axZL6VFJFrSKAhxbNrEymn1ifMKOBE4cNP0ZTcPp/LG/kO9AYUIhRnEYM136CA"
+ "date": 1794916207527,
+ "file": "Yomo-Update-1.7.5.yupd",
+ "size": 2355311,
+ "sha256": "ef4f1ba550c7a194e397e2e70b162b65eb68692084b9c5d8daab02a7b3c52c27",
+ "ext": "5b7f85ff3e18043a862012415ff12cbbacb0ce3894d11b8cebd6648063a4b26b",
+ "app": "d5a4aa2c9dcad835399c1dc18891115b633fe6eefffbc371ce999a5c2dece834",
+ "sig": "xLjbJ6fqjS4/FVb2Bgtvvbs4NLzYPEhwSXYf3usWCTg+O0fbg6u4m9d6lfy0X/ZdqjChOiQYNe6U+NkRh3fhDg"
 }
