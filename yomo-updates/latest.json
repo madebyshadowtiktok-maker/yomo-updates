@@ -1,15 +1,18 @@
 {
-  "v": 1,
-  "version": "1.7.3",
-  "notes": [
-    "Updates and problem reports now run on Yomo's own server (Cloudflare)",
-    "Report tab: see when your report is solved"
-  ],
-  "date": 1794904106391,
-  "file": "Yomo-Update-1.7.3.yupd",
-  "size": 2369635,
-  "sha256": "4b222800d1f9b2738c8ada7d773a540aef5e2501652f2d7820df1f120b60a16e",
-  "ext": "cec87e7e3269a5b63a49bfe6b3c5092053bd9312ce8cae3cc1671a864c5a5536",
-  "app": "c07dddcb7f1d20076d5be03904bef7f83199deee83e6f87a6c7b0b193cff1fde",
-  "sig": "XvGF06mAKnw9SStOHrnS+UJRureH/d+/J1s0eVoQ3WD6VgirNwG/sIb0ywGEvteI9kV54NBUcdvm0jmum0JJBA"
+ "v": 1,
+ "version": "1.7.4",
+ "notes": [
+  "Face track works like After Effects' Tracker: Tracker > Track Point 1 with Feature Center, Confidence and Attach Point",
+  "Speed graph fixed (handles can't cross, like AE)",
+  "Template captions: parented / controller templates now land in the right place",
+  "Prime: the null is not connected to anything",
+  "Beat markers removed"
+ ],
+ "date": 1794913717701,
+ "file": "Yomo-Update-1.7.4.yupd",
+ "size": 2353574,
+ "sha256": "658f77947c34f7917d5f2574ae79327676c97756632560c829ed46664ebb8f18",
+ "ext": "ff42a0ca5256b12e6be736508fce131635a5f858b3641c9d1e21217ad8190942",
+ "app": "f4b9c9193d67596e320d45b0c111c2466d34ec8cc13d219c6c08beee6df416ff",
+ "sig": "sdrwjp9TR5MIXIm8IfcBRNX/axZL6VFJFrSKAhxbNrEymn1ifMKOBE4cNP0ZTcPp/LG/kO9AYUIhRnEYM136CA"
 }
